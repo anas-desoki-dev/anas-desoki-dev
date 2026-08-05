@@ -46,7 +46,7 @@ Results-driven developer with a strong track record of building comprehensive ap
 - **Data Extraction Systems:** Built automated parsers for Excel files that generate instant visual reports for pre-log verification, saving substantial administrative overhead.
 - **Smart File-Routing Utilities:** Engineered scripts to seamlessly transfer and rename documents across company servers, completely eliminating manual data entry tasks.
 
-*(Ask me about these in an interview!)*
+
 
 ---
 
