@@ -9,7 +9,8 @@ Document Controller in construction who builds Python desktop tools to automate 
 ### 👨‍💻 About Me
 
 - 💼 Currently working as a **Document Controller** at Jidaar Construction.
--  **Independent Engineering:** All automation tools, GUI applications, and software showcased in my portfolio are self-motivated, independent projects developed Built four Python desktop automation tools on my own initiative, outside working hours.
+-  **Independent Engineering:** All automation tools, GUI applications, and software showcased in my portfolio are self-motivated,
+   Built four Python desktop automation tools on my own initiative, outside working hours.
 - 🛠️ Specializing in building **Python-based Desktop GUI applications (PyQt6/CustomTkinter)** to automate complex data extraction, file-routing, and QA workflows.
 - 💻 Experienced in crafting responsive, user-centric web interfaces using modern frameworks like **Angular** alongside **JavaScript (ES6+)** and **CSS/HTML5**.
 - 💡 **My Philosophy:** Code should solve real-world problems. Whether it's cutting tasks from hours to minutes or building a seamless web UI, I focus on practical, high-quality solutions.
