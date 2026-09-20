@@ -8,12 +8,11 @@ Document Controller in construction who builds Python desktop tools to automate 
 
 ### 👨‍💻 About Me
 
-- 💼 Currently working as a **Document Controller** at Jidaar Construction.
--  **Independent Engineering:** All automation tools, GUI applications, and software showcased in my portfolio are self-motivated,
-   Built four Python desktop automation tools on my own initiative, outside working hours.
-- 🛠️ Specializing in building **Python-based Desktop GUI applications (PyQt6/CustomTkinter)** to automate complex data extraction, file-routing, and QA workflows.
-- 💻 Experienced in crafting responsive, user-centric web interfaces using modern frameworks like **Angular** alongside **JavaScript (ES6+)** and **CSS/HTML5**.
-- 💡 **My Philosophy:** Code should solve real-world problems. Whether it's cutting tasks from hours to minutes or building a seamless web UI, I focus on practical, high-quality solutions.
+- 💼 Currently working as a **Document Controller** in the construction sector.
+- 🚀 **Independent Projects:** Built four Python desktop automation tools on my own initiative, outside working hours.
+- 🛠️ Python desktop GUI applications (**PyQt6 / CustomTkinter**) that automate data extraction, file routing and document control workflows.
+- 💻 Front-end development with **Angular**, **JavaScript (ES6+)**, **HTML5** and **CSS3**.
+- 💡 **My Philosophy:** Code should solve real-world problems. Whether it's cutting tasks from hours to minutes or building a clean web UI, I focus on practical, high-quality solutions.
 - 📫 How to reach me: [anas.desoki.shafei@gmail.com](mailto:anas.desoki.shafei@gmail.com)
 
 ---
@@ -24,7 +23,6 @@ Document Controller in construction who builds Python desktop tools to automate 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-
 **Front-End Development:**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,19 +32,19 @@ Document Controller in construction who builds Python desktop tools to automate 
 **Automation & Desktop:**
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
-
 **Version Control & Workflow:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 🏆 Independent Projects & Business Automation
-*The following solutions are proprietary architectural showcases developed independently to resolve massive workflow bottlenecks in the B2B construction sector:*
+### 🏆 Independent Projects
 
-- **Intelligent File-Routing Engine:** Engineered multi-threaded scripts with custom UI virtualization to seamlessly transfer, rename, and cloud-sync tens of thousands of documents across network servers, bypassing OS path limits.
-- **Universal Approval Extractor (Spatial PDF Analysis):** Developed an advanced utility using PyMuPDF to extract consultant approval codes directly from digital PDF vector geometries, eliminating manual data entry.
-- **AI-Powered OCR Renamer:** Built a computer vision pipeline (OpenCV + Tesseract) with a custom Human-in-the-Loop high-res review window to validate and rename scanned documents based on complex Regex patterns.
+*Portfolio showcases of tools I built to automate document control workflows in construction (source code available on request).*
+
+- **[Smart DC Automation & Cloud Sync]([LINK](https://github.com/anas-desoki-dev/dc-automation-cloud-sync)):** Desktop tool that renames and extracts data from submittal files, uploads them to Google Drive, and generates Excel and Word logs with direct links.
+- **[AI-Powered PDF OCR Renamer]([LINK](https://github.com/anas-desoki-dev/pdf-ocr-auto-renamer/tree/main)):** Computer vision pipeline (OpenCV + Tesseract) that reads serial numbers from scanned PDFs and renames them, with a high-resolution manual review window for ambiguous cases.
+- **[Universal Approval Extractor]([LINK](https://github.com/anas-desoki-dev/approval-code-extractor/tree/main)):** Tool that extracts consultant approval codes from digital PDFs using PyMuPDF vector and text-coordinate analysis, and standardizes folder and archive names.
+- **[File Routing & Network Transfer]([LINK](https://github.com/anas-desoki-dev/file-routing-engine/tree/main)):** Tool that determines the correct project folder from the serial number and transfers tens of thousands of files to network drives, with batched ZIP transfer and a virtualized file list.
 
 ---
 
