@@ -1,18 +1,18 @@
 # Hi there! 👋 I'm Anas Desoki
 
-### Software & Automation Developer | Front-End Specialist
+### Document Controller & Automation Developer | Front-End (Angular)
 
-Results-driven developer with a strong track record of building comprehensive applications, intuitive web interfaces, and internal automation tools that significantly streamline business operations. I bridge the gap between technical development and business needs.
+Document Controller in construction who builds Python desktop tools to automate document control workflows, and front-end developer working with Angular. I bridge the gap between technical development and business needs.
 
 ---
 
 ### 👨‍💻 About Me
 
 - 💼 Currently working as a **Document Controller** at Jidaar Construction.
--  **Independent Engineering:** All automation tools, GUI applications, and software showcased in my portfolio are self-motivated, independent projects developed entirely outside of my official job description.
+-  **Independent Engineering:** All automation tools, GUI applications, and software showcased in my portfolio are self-motivated, independent projects developed Built four Python desktop automation tools on my own initiative, outside working hours.
 - 🛠️ Specializing in building **Python-based Desktop GUI applications (PyQt6/CustomTkinter)** to automate complex data extraction, file-routing, and QA workflows.
 - 💻 Experienced in crafting responsive, user-centric web interfaces using modern frameworks like **Angular** alongside **JavaScript (ES6+)** and **CSS/HTML5**.
-- 💡 **My Philosophy:** Code should solve real-world problems. Whether it's saving 15+ hours of manual data entry a week or building a seamless web UI, I focus on practical, high-quality solutions.
+- 💡 **My Philosophy:** Code should solve real-world problems. Whether it's cutting tasks from hours to minutes or building a seamless web UI, I focus on practical, high-quality solutions.
 - 📫 How to reach me: [anas.desoki.shafei@gmail.com](mailto:anas.desoki.shafei@gmail.com)
 
 ---
@@ -22,7 +22,7 @@ Results-driven developer with a strong track record of building comprehensive ap
 **Programming Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 **Front-End Development:**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -32,8 +32,7 @@ Results-driven developer with a strong track record of building comprehensive ap
 
 **Automation & Desktop:**
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Data Processing](https://img.shields.io/badge/Data_Processing-FFCA28?style=for-the-badge&logo=databricks&logoColor=black)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
 
 **Version Control & Workflow:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
