@@ -47,10 +47,10 @@ Front-end developer working with Angular and TypeScript, and a Document Controll
 
 **Python automation** *(portfolio showcases of tools I built for document control workflows in construction; source code available on request)*
 
-- **[Smart DC Automation & Cloud Sync](https://github.com/anas-desoki-dev/dc-automation-cloud-sync):** Desktop tool that renames and extracts data from submittal files, uploads them to Google Drive, and generates Excel and Word logs with direct links.
-- **[AI-Powered PDF OCR Renamer](https://github.com/anas-desoki-dev/pdf-ocr-auto-renamer):** Computer vision pipeline (OpenCV + Tesseract) that reads serial numbers from scanned PDFs and renames them, with a high-resolution manual review window for ambiguous cases.
-- **[Universal Approval Extractor](https://github.com/anas-desoki-dev/approval-code-extractor):** Tool that extracts consultant approval codes from digital PDFs using PyMuPDF vector and text-coordinate analysis, and standardizes folder and archive names.
-- **[File Routing & Network Transfer](https://github.com/anas-desoki-dev/file-routing-engine):** Tool that determines the correct project folder from the serial number and transfers tens of thousands of files to network drives, with batched ZIP transfer and a virtualized file list.
+- **[Dc-automation-cloud-sync](https://github.com/anas-desoki-dev/dc-automation-cloud-sync):** Desktop tool that renames and extracts data from submittal files, uploads them to Google Drive, and generates Excel and Word logs with direct links.
+- **[Pdf-ocr-auto-renamer](https://github.com/anas-desoki-dev/pdf-ocr-auto-renamer):** Computer vision pipeline (OpenCV + Tesseract) that reads serial numbers from scanned PDFs and renames them, with a high-resolution manual review window for ambiguous cases.
+- **[Approval-code-extractor ](https://github.com/anas-desoki-dev/approval-code-extractor):** Tool that extracts consultant approval codes from digital PDFs using PyMuPDF vector and text-coordinate analysis, and standardizes folder and archive names.
+- **[File-routing-engine](https://github.com/anas-desoki-dev/file-routing-engine):** Tool that determines the correct project folder from the serial number and transfers tens of thousands of files to network drives, with batched ZIP transfer and a virtualized file list.
 
 ---
 
