@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Anas Desoki
 
-### Document Controller & Automation Developer | Front-End (Angular)
+### Front-End Developer (Angular) | Document Controller & Automation
 
 Document Controller in construction who builds Python desktop tools to automate document control workflows, and front-end developer working with Angular. I bridge the gap between technical development and business needs.
 
